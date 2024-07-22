@@ -155,7 +155,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
-    <ClCompile Include="ConsoleTask.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Helpers.h" />
